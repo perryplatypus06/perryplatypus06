@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning javascript
+- 👯 I’m looking to collaborate
+- 📫 How to reach me: mahatilokegaonkar@gmail.com
+- 😄 Pronouns: she/her
 <!--
 **perryplatypus06/perryplatypus06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
